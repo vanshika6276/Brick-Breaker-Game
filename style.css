@@ -16,10 +16,11 @@ html {
     color: rgb(115, 64, 191);
     margin: auto;
     font-family: monospace;
-    font-size:50px
+    font-size:40px
+    line-height:0.5em;  
   }
   h4 {
     color: rgb(0, 126, 128);
-    font-size: 30px;
+    font-size: 28px;
   }
   
