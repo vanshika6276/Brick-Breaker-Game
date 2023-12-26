@@ -1,0 +1,25 @@
+html {
+    color: red;
+    padding: 0;
+    margin: 0;
+    
+  }
+  canvas {
+    background: #f70776;
+    background: -webkit-linear-gradient(#c3195d, #680747);
+    background-color: #141010;
+    display: block;
+    margin: 0 auto;
+   
+  }
+  h1 {
+    color: rgb(115, 64, 191);
+    margin: auto;
+    font-family: monospace;
+    font-size:50px
+  }
+  h4 {
+    color: rgb(0, 126, 128);
+    font-size: 30px;
+  }
+  
